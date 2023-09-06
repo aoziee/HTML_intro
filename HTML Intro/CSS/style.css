@@ -1,0 +1,21 @@
+h1{
+   color: rgb(165, 117, 54);
+}
+h2{
+    background-color: pink;
+    color: rgb(165, 117, 54);
+}
+h3 {
+  color: rgb(60, 153, 190);
+}
+p
+{
+    background-color: beige;
+}
+table, th, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+  }
+  th, td {
+    background-color: pink;
+  }
